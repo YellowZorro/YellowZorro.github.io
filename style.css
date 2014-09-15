@@ -225,7 +225,7 @@ button {  width: auto; overflow: visible; }
  */
  
  body {
-	 background: #FFF;
+	 background: #FFFFFF;
  }
  
 h1 {
@@ -322,7 +322,7 @@ ul li {
  
 .socials ul li.facebook a {
 	display: block;
-	background: url(../images/facebook.gif) 0px 0px no-repeat;
+	background: url(.images/facebook.gif) 0px 0px no-repeat;
 	width: 32px;
 	height: 32px;
 	text-indent: -9999px;
@@ -330,12 +330,12 @@ ul li {
  }
  
 .socials ul li.facebook a:hover {
-	background: url(../images/facebook.gif) 0px -32px no-repeat;
+	background: url(.images/facebook.gif) 0px -32px no-repeat;
 }
  
 .socials ul li.twitter a {
 	display: block;
-	background: url(../images/twitter.gif) no-repeat;
+	background: url(.images/twitter.gif) no-repeat;
 	width: 32px;
 	height: 32px;
 	text-indent: -9999px;
@@ -343,12 +343,12 @@ ul li {
  }
  
 .socials ul li.twitter a:hover {
-	background: url(../images/twitter.gif) 0px -32px no-repeat;
+	background: url(.images/twitter.gif) 0px -32px no-repeat;
 }
 
 .socials ul li.linkedin a {
 	display: block;
-	background: url(../images/linkedin.gif) no-repeat;
+	background: url(.images/linkedin.gif) no-repeat;
 	width: 32px;
 	height: 32px;
 	text-indent: -9999px;
@@ -357,7 +357,7 @@ ul li {
  } 
  
  .socials ul li.linkedin a:hover {
-	background: url(../images/linkedin.gif) 0px -32px no-repeat;
+	background: url(.images/linkedin.gif) 0px -32px no-repeat;
 }
  
 .logo {
@@ -479,11 +479,11 @@ ul#main-nav li ul li a:hover,
 }
 
 .banner-social-new {
-	background: url(../images/banner-social.jpg) no-repeat;
+	background: url(.images/banner-social.jpg) no-repeat;
 }
 
 .banner-mobile {
-	background: url(../images/banner-mobile.jpg) no-repeat;
+	background: url(.images/banner-mobile.jpg) no-repeat;
 }
  
 #left-column {
@@ -580,96 +580,96 @@ ul.clients li a {
 	text-indent: -9999px;
 }
 
-ul.clients li.accolade a { background: url(../images/client-logos/sbw_client_accolade.gif) 0px 0px no-repeat; }
-ul.clients li.accolade a:hover { background: url(../images/client-logos/sbw_client_accolade.gif) 0px -174px no-repeat; }
-ul.clients li.ashfords a { background: url(../images/client-logos/sbw_client_ashfords.gif) 0px 0px no-repeat; }
-ul.clients li.ashfords a:hover { background: url(../images/client-logos/sbw_client_ashfords.gif) 0px -174px no-repeat; }
-ul.clients li.bristol-airport a { background: url(../images/client-logos/sbw_client_bristolairport.gif) 0px 0px no-repeat; }
-ul.clients li.bristol-airport a:hover { background: url(../images/client-logos/sbw_client_bristolairport.gif) 0px -174px no-repeat; }
-ul.clients li.catalent a { background: url(../images/client-logos/sbw_client_catalent.gif) 0px 0px no-repeat; }
-ul.clients li.catalent a:hover { background: url(../images/client-logos/sbw_client_catalent.gif) 0px -174px no-repeat; }
-ul.clients li.cfc a { background: url(../images/client-logos/sbw_client_cfc.gif) 0px 0px no-repeat; }
-ul.clients li.cfc a:hover { background: url(../images/client-logos/sbw_client_cfc.gif) 0px -174px no-repeat; }
-ul.clients li.cw a { background: url(../images/client-logos/sbw_client_clarkewillmott.gif) 0px 0px no-repeat; }
-ul.clients li.cw a:hover { background: url(../images/client-logos/sbw_client_clarkewillmott.gif) 0px -174px no-repeat; }
-ul.clients li.chg a { background: url(../images/client-logos/sbw_client_cliftonhotels.gif) 0px 0px no-repeat; }
-ul.clients li.chg a:hover { background: url(../images/client-logos/sbw_client_cliftonhotels.gif) 0px -174px no-repeat; }
-ul.clients li.eagle a { background: url(../images/client-logos/sbw_client_eagle.gif) 0px 0px no-repeat; }
-ul.clients li.eagle a:hover { background: url(../images/client-logos/sbw_client_eagle.gif) 0px -174px no-repeat; }
-ul.clients li.feature a { background: url(../images/client-logos/sbw_client_feature.gif) 0px 0px no-repeat; }
-ul.clients li.feature a:hover { background: url(../images/client-logos/sbw_client_feature.gif) 0px -174px no-repeat; }
-ul.clients li.freestyle a { background: url(../images/client-logos/sbw_client_freestyle.gif) 0px 0px no-repeat; }
-ul.clients li.freestyle a:hover { background: url(../images/client-logos/sbw_client_freestyle.gif) 0px -174px no-repeat; }
-ul.clients li.future a { background: url(../images/client-logos/sbw_client_future.gif) 0px 0px no-repeat; }
-ul.clients li.future a:hover { background: url(../images/client-logos/sbw_client_future.gif) 0px -174px no-repeat; }
-ul.clients li.gladiators a { background: url(../images/client-logos/sbw_client_gladiators.gif) 0px 0px no-repeat; }
-ul.clients li.gladiators a:hover { background: url(../images/client-logos/sbw_client_gladiators.gif) 0px -174px no-repeat; }
+ul.clients li.accolade a { background: url(.images/client-logos/sbw_client_accolade.gif) 0px 0px no-repeat; }
+ul.clients li.accolade a:hover { background: url(.images/client-logos/sbw_client_accolade.gif) 0px -174px no-repeat; }
+ul.clients li.ashfords a { background: url(.images/client-logos/sbw_client_ashfords.gif) 0px 0px no-repeat; }
+ul.clients li.ashfords a:hover { background: url(.images/client-logos/sbw_client_ashfords.gif) 0px -174px no-repeat; }
+ul.clients li.bristol-airport a { background: url(.images/client-logos/sbw_client_bristolairport.gif) 0px 0px no-repeat; }
+ul.clients li.bristol-airport a:hover { background: url(.images/client-logos/sbw_client_bristolairport.gif) 0px -174px no-repeat; }
+ul.clients li.catalent a { background: url(.images/client-logos/sbw_client_catalent.gif) 0px 0px no-repeat; }
+ul.clients li.catalent a:hover { background: url(.images/client-logos/sbw_client_catalent.gif) 0px -174px no-repeat; }
+ul.clients li.cfc a { background: url(.images/client-logos/sbw_client_cfc.gif) 0px 0px no-repeat; }
+ul.clients li.cfc a:hover { background: url(.images/client-logos/sbw_client_cfc.gif) 0px -174px no-repeat; }
+ul.clients li.cw a { background: url(.images/client-logos/sbw_client_clarkewillmott.gif) 0px 0px no-repeat; }
+ul.clients li.cw a:hover { background: url(.images/client-logos/sbw_client_clarkewillmott.gif) 0px -174px no-repeat; }
+ul.clients li.chg a { background: url(.images/client-logos/sbw_client_cliftonhotels.gif) 0px 0px no-repeat; }
+ul.clients li.chg a:hover { background: url(.images/client-logos/sbw_client_cliftonhotels.gif) 0px -174px no-repeat; }
+ul.clients li.eagle a { background: url(.images/client-logos/sbw_client_eagle.gif) 0px 0px no-repeat; }
+ul.clients li.eagle a:hover { background: url(.images/client-logos/sbw_client_eagle.gif) 0px -174px no-repeat; }
+ul.clients li.feature a { background: url(.images/client-logos/sbw_client_feature.gif) 0px 0px no-repeat; }
+ul.clients li.feature a:hover { background: url(.images/client-logos/sbw_client_feature.gif) 0px -174px no-repeat; }
+ul.clients li.freestyle a { background: url(.images/client-logos/sbw_client_freestyle.gif) 0px 0px no-repeat; }
+ul.clients li.freestyle a:hover { background: url(.images/client-logos/sbw_client_freestyle.gif) 0px -174px no-repeat; }
+ul.clients li.future a { background: url(.images/client-logos/sbw_client_future.gif) 0px 0px no-repeat; }
+ul.clients li.future a:hover { background: url(.images/client-logos/sbw_client_future.gif) 0px -174px no-repeat; }
+ul.clients li.gladiators a { background: url(.images/client-logos/sbw_client_gladiators.gif) 0px 0px no-repeat; }
+ul.clients li.gladiators a:hover { background: url(.images/client-logos/sbw_client_gladiators.gif) 0px -174px no-repeat; }
 
-ul.clients li.graphic a { background: url(../images/client-logos/sbw_client_graphicpackaging.gif) 0px 0px no-repeat; }
-ul.clients li.graphic a:hover { background: url(../images/client-logos/sbw_client_graphicpackaging.gif) 0px -174px no-repeat; }
-ul.clients li.hc a { background: url(../images/client-logos/sbw_client_hc.gif) 0px 0px no-repeat; }
-ul.clients li.hc a:hover { background: url(../images/client-logos/sbw_client_hc.gif) 0px -174px no-repeat; }
+ul.clients li.graphic a { background: url(.images/client-logos/sbw_client_graphicpackaging.gif) 0px 0px no-repeat; }
+ul.clients li.graphic a:hover { background: url(.images/client-logos/sbw_client_graphicpackaging.gif) 0px -174px no-repeat; }
+ul.clients li.hc a { background: url(.images/client-logos/sbw_client_hc.gif) 0px 0px no-repeat; }
+ul.clients li.hc a:hover { background: url(.images/client-logos/sbw_client_hc.gif) 0px -174px no-repeat; }
 
 
-ul.clients li.imsm a { background: url(../images/client-logos/sbw_client_imsm.gif) 0px 0px no-repeat; }
-ul.clients li.imsm a:hover { background: url(../images/client-logos/sbw_client_imsm.gif) 0px -174px no-repeat; }
-ul.clients li.hns a { background: url(../images/client-logos/sbw_client_hns.gif) 0px 0px no-repeat; }
-ul.clients li.hns a:hover { background: url(../images/client-logos/sbw_client_hns.gif) 0px -174px no-repeat; }
+ul.clients li.imsm a { background: url(.images/client-logos/sbw_client_imsm.gif) 0px 0px no-repeat; }
+ul.clients li.imsm a:hover { background: url(.images/client-logos/sbw_client_imsm.gif) 0px -174px no-repeat; }
+ul.clients li.hns a { background: url(.images/client-logos/sbw_client_hns.gif) 0px 0px no-repeat; }
+ul.clients li.hns a:hover { background: url(.images/client-logos/sbw_client_hns.gif) 0px -174px no-repeat; }
 
-ul.clients li.ludlow a { background: url(../images/client-logos/sbw_client_ludlowsh.gif) 0px 0px no-repeat; }
-ul.clients li.ludlow a:hover { background: url(../images/client-logos/sbw_client_ludlowsh.gif) 0px -174px no-repeat; }
-ul.clients li.ld a { background: url(../images/client-logos/sbw_client_lyonsdavidson.gif) 0px 0px no-repeat; }
-ul.clients li.ld a:hover { background: url(../images/client-logos/sbw_client_lyonsdavidson.gif) 0px -174px no-repeat; }
-ul.clients li.milestones a { background: url(../images/client-logos/sbw_client_milestones.gif) 0px 0px no-repeat; }
-ul.clients li.milestones a:hover { background: url(../images/client-logos/sbw_client_milestones.gif) 0px -174px no-repeat; }
+ul.clients li.ludlow a { background: url(.images/client-logos/sbw_client_ludlowsh.gif) 0px 0px no-repeat; }
+ul.clients li.ludlow a:hover { background: url(.images/client-logos/sbw_client_ludlowsh.gif) 0px -174px no-repeat; }
+ul.clients li.ld a { background: url(.images/client-logos/sbw_client_lyonsdavidson.gif) 0px 0px no-repeat; }
+ul.clients li.ld a:hover { background: url(.images/client-logos/sbw_client_lyonsdavidson.gif) 0px -174px no-repeat; }
+ul.clients li.milestones a { background: url(.images/client-logos/sbw_client_milestones.gif) 0px 0px no-repeat; }
+ul.clients li.milestones a:hover { background: url(.images/client-logos/sbw_client_milestones.gif) 0px -174px no-repeat; }
 
-ul.clients li.nbht a { background: url(../images/client-logos/sbw_client_northbristolnhs.gif) 0px 0px no-repeat; }
-ul.clients li.nbht a:hover { background: url(../images/client-logos/sbw_client_northbristolnhs.gif) 0px -174px no-repeat; }
-ul.clients li.pcad a { background: url(../images/client-logos/sbw_client_pcad.gif) 0px 0px no-repeat; }
-ul.clients li.pcad a:hover { background: url(../images/client-logos/sbw_client_pcad.gif) 0px -174px no-repeat; }
-ul.clients li.raglan a { background: url(../images/client-logos/sbw_client_raglan.gif) 0px 0px no-repeat; }
-ul.clients li.raglan a:hover { background: url(../images/client-logos/sbw_client_raglan.gif) 0px -174px no-repeat; }
-ul.clients li.seren a { background: url(../images/client-logos/sbw_client_seren.gif) 0px 0px no-repeat; }
-ul.clients li.seren a:hover { background: url(../images/client-logos/sbw_client_seren.gif) 0px -174px no-repeat; }
+ul.clients li.nbht a { background: url(.images/client-logos/sbw_client_northbristolnhs.gif) 0px 0px no-repeat; }
+ul.clients li.nbht a:hover { background: url(.images/client-logos/sbw_client_northbristolnhs.gif) 0px -174px no-repeat; }
+ul.clients li.pcad a { background: url(.images/client-logos/sbw_client_pcad.gif) 0px 0px no-repeat; }
+ul.clients li.pcad a:hover { background: url(.images/client-logos/sbw_client_pcad.gif) 0px -174px no-repeat; }
+ul.clients li.raglan a { background: url(.images/client-logos/sbw_client_raglan.gif) 0px 0px no-repeat; }
+ul.clients li.raglan a:hover { background: url(.images/client-logos/sbw_client_raglan.gif) 0px -174px no-repeat; }
+ul.clients li.seren a { background: url(.images/client-logos/sbw_client_seren.gif) 0px 0px no-repeat; }
+ul.clients li.seren a:hover { background: url(.images/client-logos/sbw_client_seren.gif) 0px -174px no-repeat; }
 
-ul.clients li.smt a { background: url(../images/client-logos/sbw_client_stmonica.gif) 0px 0px no-repeat; }
-ul.clients li.smt a:hover { background: url(../images/client-logos/sbw_client_stmonica.gif) 0px -174px no-repeat; }
-ul.clients li.thatcher a { background: url(../images/client-logos/sbw_client_thatcher.gif) 0px 0px no-repeat; }
-ul.clients li.thatcher a:hover { background: url(../images/client-logos/sbw_client_thatcher.gif) 0px -174px no-repeat; }
+ul.clients li.smt a { background: url(.images/client-logos/sbw_client_stmonica.gif) 0px 0px no-repeat; }
+ul.clients li.smt a:hover { background: url(.images/client-logos/sbw_client_stmonica.gif) 0px -174px no-repeat; }
+ul.clients li.thatcher a { background: url(.images/client-logos/sbw_client_thatcher.gif) 0px 0px no-repeat; }
+ul.clients li.thatcher a:hover { background: url(.images/client-logos/sbw_client_thatcher.gif) 0px -174px no-repeat; }
 
-ul.clients li.thermae a { background: url(../images/client-logos/sbw_client_thermae.gif) 0px 0px no-repeat; }
-ul.clients li.thermae a:hover { background: url(../images/client-logos/sbw_client_thermae.gif) 0px -174px no-repeat; }
-ul.clients li.uhb a { background: url(../images/client-logos/sbw_client_uhb.gif) 0px 0px no-repeat; }
-ul.clients li.uhb a:hover { background: url(../images/client-logos/sbw_client_uhb.gif) 0px -174px no-repeat; }
-ul.clients li.usw a { background: url(../images/client-logos/sbw_client_usw.gif) 0px 0px no-repeat; }
-ul.clients li.usw a:hover { background: url(../images/client-logos/sbw_client_usw.gif) 0px -174px no-repeat; }
-ul.clients li.wessex a { background: url(../images/client-logos/sbw_client_wessexwater.gif) 0px 0px no-repeat; }
-ul.clients li.wessex a:hover { background: url(../images/client-logos/sbw_client_wessexwater.gif) 0px -174px no-repeat; }
-ul.clients li.wpd a { background: url(../images/client-logos/sbw_client_westernpower.gif) 0px 0px no-repeat; }
-ul.clients li.wpd a:hover { background: url(../images/client-logos/sbw_client_westernpower.gif) 0px -174px no-repeat; }
-ul.clients li.wff a { background: url(../images/client-logos/sbw_client_wiltshirefarm.gif) 0px 0px no-repeat; }
-ul.clients li.wff a:hover { background: url(../images/client-logos/sbw_client_wiltshirefarm.gif) 0px -174px no-repeat; }
-ul.clients li.xograph a { background: url(../images/client-logos/sbw_client_xograph.gif) 0px 0px no-repeat; }
-ul.clients li.xograph a:hover { background: url(../images/client-logos/sbw_client_xograph.gif) 0px -174px no-repeat; }
+ul.clients li.thermae a { background: url(.images/client-logos/sbw_client_thermae.gif) 0px 0px no-repeat; }
+ul.clients li.thermae a:hover { background: url(.images/client-logos/sbw_client_thermae.gif) 0px -174px no-repeat; }
+ul.clients li.uhb a { background: url(.images/client-logos/sbw_client_uhb.gif) 0px 0px no-repeat; }
+ul.clients li.uhb a:hover { background: url(.images/client-logos/sbw_client_uhb.gif) 0px -174px no-repeat; }
+ul.clients li.usw a { background: url(.images/client-logos/sbw_client_usw.gif) 0px 0px no-repeat; }
+ul.clients li.usw a:hover { background: url(.images/client-logos/sbw_client_usw.gif) 0px -174px no-repeat; }
+ul.clients li.wessex a { background: url(.images/client-logos/sbw_client_wessexwater.gif) 0px 0px no-repeat; }
+ul.clients li.wessex a:hover { background: url(.images/client-logos/sbw_client_wessexwater.gif) 0px -174px no-repeat; }
+ul.clients li.wpd a { background: url(.images/client-logos/sbw_client_westernpower.gif) 0px 0px no-repeat; }
+ul.clients li.wpd a:hover { background: url(.images/client-logos/sbw_client_westernpower.gif) 0px -174px no-repeat; }
+ul.clients li.wff a { background: url(.images/client-logos/sbw_client_wiltshirefarm.gif) 0px 0px no-repeat; }
+ul.clients li.wff a:hover { background: url(.images/client-logos/sbw_client_wiltshirefarm.gif) 0px -174px no-repeat; }
+ul.clients li.xograph a { background: url(.images/client-logos/sbw_client_xograph.gif) 0px 0px no-repeat; }
+ul.clients li.xograph a:hover { background: url(.images/client-logos/sbw_client_xograph.gif) 0px -174px no-repeat; }
 
-ul.clients li.port a { background: url(../images/client-logos/sbw_client_port.gif) 0px 0px no-repeat; }
-ul.clients li.port a:hover { background: url(../images/client-logos/sbw_client_port.gif) 0px -174px no-repeat; }
-ul.clients li.mogers a { background: url(../images/client-logos/sbw_client_mogers.gif) 0px 0px no-repeat; }
-ul.clients li.mogers a:hover { background: url(../images/client-logos/sbw_client_mogers.gif) 0px -174px no-repeat; }
-ul.clients li.nerc a { background: url(../images/client-logos/sbw_client_nerc.gif) 0px 0px no-repeat; }
-ul.clients li.nerc a:hover { background: url(../images/client-logos/sbw_client_nerc.gif) 0px -174px no-repeat; }
-ul.clients li.dino a { background: url(../images/client-logos/sbw_client_dino.gif) 0px 0px no-repeat; }
-ul.clients li.dino a:hover { background: url(../images/client-logos/sbw_client_dino.gif) 0px -174px no-repeat; }
-ul.clients li.cresser a { background: url(../images/client-logos/sbw_client_cresser.gif) 0px 0px no-repeat; }
-ul.clients li.cresser a:hover { background: url(../images/client-logos/sbw_client_cresser.gif) 0px -174px no-repeat; }
-ul.clients li.jp a { background: url(../images/client-logos/sbw_client_jp.gif) 0px 0px no-repeat; }
-ul.clients li.jp a:hover { background: url(../images/client-logos/sbw_client_jp.gif) 0px -174px no-repeat; }
-ul.clients li.elan a { background: url(../images/client-logos/sbw_client_elan.gif) 0px 0px no-repeat; }
-ul.clients li.elan a:hover { background: url(../images/client-logos/sbw_client_elan.gif) 0px -174px no-repeat; }
-ul.clients li.synergy a { background: url(../images/client-logos/sbw_client_synergy.gif) 0px 0px no-repeat; }
-ul.clients li.synergy a:hover { background: url(../images/client-logos/sbw_client_synergy.gif) 0px -174px no-repeat; }
-ul.clients li.mq a { background: url(../images/client-logos/sbw_client_mq.gif) 0px 0px no-repeat; }
-ul.clients li.mq a:hover { background: url(../images/client-logos/sbw_client_mq.gif) 0px -174px no-repeat; }
+ul.clients li.port a { background: url(.images/client-logos/sbw_client_port.gif) 0px 0px no-repeat; }
+ul.clients li.port a:hover { background: url(.images/client-logos/sbw_client_port.gif) 0px -174px no-repeat; }
+ul.clients li.mogers a { background: url(.images/client-logos/sbw_client_mogers.gif) 0px 0px no-repeat; }
+ul.clients li.mogers a:hover { background: url(.images/client-logos/sbw_client_mogers.gif) 0px -174px no-repeat; }
+ul.clients li.nerc a { background: url(.images/client-logos/sbw_client_nerc.gif) 0px 0px no-repeat; }
+ul.clients li.nerc a:hover { background: url(.images/client-logos/sbw_client_nerc.gif) 0px -174px no-repeat; }
+ul.clients li.dino a { background: url(.images/client-logos/sbw_client_dino.gif) 0px 0px no-repeat; }
+ul.clients li.dino a:hover { background: url(.images/client-logos/sbw_client_dino.gif) 0px -174px no-repeat; }
+ul.clients li.cresser a { background: url(.images/client-logos/sbw_client_cresser.gif) 0px 0px no-repeat; }
+ul.clients li.cresser a:hover { background: url(.images/client-logos/sbw_client_cresser.gif) 0px -174px no-repeat; }
+ul.clients li.jp a { background: url(.images/client-logos/sbw_client_jp.gif) 0px 0px no-repeat; }
+ul.clients li.jp a:hover { background: url(.images/client-logos/sbw_client_jp.gif) 0px -174px no-repeat; }
+ul.clients li.elan a { background: url(.images/client-logos/sbw_client_elan.gif) 0px 0px no-repeat; }
+ul.clients li.elan a:hover { background: url(.images/client-logos/sbw_client_elan.gif) 0px -174px no-repeat; }
+ul.clients li.synergy a { background: url(.images/client-logos/sbw_client_synergy.gif) 0px 0px no-repeat; }
+ul.clients li.synergy a:hover { background: url(.images/client-logos/sbw_client_synergy.gif) 0px -174px no-repeat; }
+ul.clients li.mq a { background: url(.images/client-logos/sbw_client_mq.gif) 0px 0px no-repeat; }
+ul.clients li.mq a:hover { background: url(.images/client-logos/sbw_client_mq.gif) 0px -174px no-repeat; }
 
 
 
@@ -678,7 +678,7 @@ ul.clients-mobile {
 }
 
 .divider {
-	background: url(../images/circle-divider.gif) no-repeat;
+	background: url(.images/circle-divider.gif) no-repeat;
 	width: 205px;
 	height: 60px;
 }
@@ -728,7 +728,7 @@ ul.services-nav li a:hover {
 }
 
 ul.services-nav li.integrated a {
-	background-image: url(../images/services/integrated-hover.gif);
+	background-image: url(.images/services/integrated-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -740,7 +740,7 @@ ul.services-nav li.integrated a {
 }
 
 ul.services-nav.home li.integrated a {
-	background-image: url(../images/services/integrated-hover.gif);
+	background-image: url(.images/services/integrated-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -753,11 +753,11 @@ ul.services-nav.home li.integrated a {
 
 
 ul.services-nav li.integrated a:hover, ul.services-nav li.integrated a.active {
-	background-image: url(../images/services/integrated.gif);
+	background-image: url(.images/services/integrated.gif);
 }
 
 ul.services-nav li.press a {
-	background-image: url(../images/services/press-hover.gif);
+	background-image: url(.images/services/press-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -769,7 +769,7 @@ ul.services-nav li.press a {
 }
 
 ul.services-nav.home li.press a {
-	background-image: url(../images/services/press-hover.gif);
+	background-image: url(.images/services/press-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -781,11 +781,11 @@ ul.services-nav.home li.press a {
 }
 
 ul.services-nav li.press a:hover, ul.services-nav li.press a.active {
-	background-image: url(../images/services/press.gif);
+	background-image: url(.images/services/press.gif);
 }
 
 ul.services-nav li.design a {
-	background-image: url(../images/services/design-hover.gif);
+	background-image: url(.images/services/design-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -797,7 +797,7 @@ ul.services-nav li.design a {
 }
 
 ul.services-nav.home li.design a {
-	background-image: url(../images/services/design-hover.gif);
+	background-image: url(.images/services/design-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -809,11 +809,11 @@ ul.services-nav.home li.design a {
 }
 
 ul.services-nav li.design a:hover, ul.services-nav li.design a.active {
-	background-image: url(../images/services/design.gif);
+	background-image: url(.images/services/design.gif);
 }
 
 ul.services-nav li.digital a {
-	background-image: url(../images/services/digital-hover.gif);
+	background-image: url(.images/services/digital-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -825,7 +825,7 @@ ul.services-nav li.digital a {
 }
 
 ul.services-nav.home li.digital a {
-	background-image: url(../images/services/digital-hover.gif);
+	background-image: url(.images/services/digital-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -837,11 +837,11 @@ ul.services-nav.home li.digital a {
 }
 
 ul.services-nav li.digital a:hover, ul.services-nav li.digital a.active {
-	background-image: url(../images/services/digital.gif);
+	background-image: url(.images/services/digital.gif);
 }
 
 ul.services-nav li.directmail a {
-	background-image: url(../images/services/directmail-hover.gif);
+	background-image: url(.images/services/directmail-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -853,7 +853,7 @@ ul.services-nav li.directmail a {
 }
 
 ul.services-nav.home li.directmail a {
-	background-image: url(../images/services/directmail-hover.gif);
+	background-image: url(.images/services/directmail-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -865,11 +865,11 @@ ul.services-nav.home li.directmail a {
 }
 
 ul.services-nav li.directmail a:hover, ul.services-nav li.directmail a.active {
-	background-image: url(../images/services/directmail.gif);
+	background-image: url(.images/services/directmail.gif);
 }
 
 ul.services-nav li.recruitment a {
-	background-image: url(../images/services/recruitment-hover.gif);
+	background-image: url(.images/services/recruitment-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -881,7 +881,7 @@ ul.services-nav li.recruitment a {
 }
 
 ul.services-nav.home li.recruitment a {
-	background-image: url(../images/services/recruitment-hover.gif);
+	background-image: url(.images/services/recruitment-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -893,11 +893,11 @@ ul.services-nav.home li.recruitment a {
 }
 
 ul.services-nav li.recruitment a:hover, ul.services-nav li.recruitment a.active {
-	background-image: url(../images/services/recruitment.gif);
+	background-image: url(.images/services/recruitment.gif);
 }
 
 ul.services-nav li.social a {
-	background-image: url(../images/services/social-hover.gif);
+	background-image: url(.images/services/social-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -909,7 +909,7 @@ ul.services-nav li.social a {
 }
 
 ul.services-nav.home li.social a {
-	background-image: url(../images/services/social-hover.gif);
+	background-image: url(.images/services/social-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -921,11 +921,11 @@ ul.services-nav.home li.social a {
 }
 
 ul.services-nav li.social a:hover, ul.services-nav li.social a.active {
-	background-image: url(../images/services/social.gif);
+	background-image: url(.images/services/social.gif);
 }
 
 ul.services-nav li.mobile a {
-	background-image: url(../images/services/mobile-hover.gif);
+	background-image: url(.images/services/mobile-hover.gif);
 	background-position:50% 50%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -937,7 +937,7 @@ ul.services-nav li.mobile a {
 }
 
 ul.services-nav.home li.mobile a {
-	background-image: url(../images/services/mobile-hover.gif);
+	background-image: url(.images/services/mobile-hover.gif);
 	background-position:50% 0%; 
 	background-repeat:no-repeat; 
 	display:block; 
@@ -949,7 +949,7 @@ ul.services-nav.home li.mobile a {
 }
 
 ul.services-nav li.mobile a:hover, ul.services-nav li.mobile a.active {
-	background-image: url(../images/services/mobile.gif);
+	background-image: url(.images/services/mobile.gif);
 }
 
 #thumbs{
@@ -1376,7 +1376,7 @@ form.contact-frm input:focus, form.contact-frm textarea:focus {
 	
 
 form.contact-frm input#btnsubmit {
-	background:url(../images/submit-button.gif) 0px 0px no-repeat;
+	background:url(.images/submit-button.gif) 0px 0px no-repeat;
 	width: 80px;
 	height: 25px;
 	font-size: 12px;
@@ -1389,7 +1389,7 @@ form.contact-frm input#btnsubmit {
 	
 
 #button {
-	background: url(../images/slide-button.gif) no-repeat;
+	background: url(.images/slide-button.gif) no-repeat;
 	cursor: pointer;
 	text-indent: -9999px;
 	width: 40px;
@@ -1400,7 +1400,7 @@ form.contact-frm input#btnsubmit {
 }
 
 #button:hover {
-	background: url(../images/slide-button.gif) no-repeat;
+	background: url(.images/slide-button.gif) no-repeat;
 }
 
 /*** END ***/
@@ -1566,11 +1566,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_simon.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_simon.jpg) 0px -174px no-repeat;
 }
 
 #thumb-simon a:hover {
-	background: url(../images/sbw_simon.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_simon.jpg) 0px 0px no-repeat;
 }
 
 #thumb-leticia a {
@@ -1578,11 +1578,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_leticia.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_leticia.jpg) 0px -174px no-repeat;
 }
 
 #thumb-leticia a:hover {
-	background: url(../images/sbw_leticia.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_leticia.jpg) 0px 0px no-repeat;
 }
 
 #thumb-charlotte a {
@@ -1590,11 +1590,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_charlotte.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_charlotte.jpg) 0px -174px no-repeat;
 }
 
 #thumb-charlotte a:hover {
-	background: url(../images/sbw_charlotte.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_charlotte.jpg) 0px 0px no-repeat;
 }
 
 #thumb-richard a {
@@ -1602,11 +1602,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_rich.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_rich.jpg) 0px -174px no-repeat;
 }
 
 #thumb-richard a:hover {
-	background: url(../images/sbw_rich.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_rich.jpg) 0px 0px no-repeat;
 }
 
 #thumb-tina a {
@@ -1614,11 +1614,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_tina.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_tina.jpg) 0px -174px no-repeat;
 }
 
 #thumb-tina a:hover {
-	background: url(../images/sbw_tina.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_tina.jpg) 0px 0px no-repeat;
 }
 
 #thumb-jane a {
@@ -1626,11 +1626,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_jane.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_jane.jpg) 0px -174px no-repeat;
 }
 
 #thumb-jane a:hover {
-	background: url(../images/sbw_jane.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_jane.jpg) 0px 0px no-repeat;
 }
 
 #thumb-ella a {
@@ -1638,11 +1638,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_ella.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_ella.jpg) 0px -174px no-repeat;
 }
 
 #thumb-ella a:hover {
-	background: url(../images/sbw_ella.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_ella.jpg) 0px 0px no-repeat;
 }
 
 #thumb-sam a {
@@ -1650,11 +1650,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_sam.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_sam.jpg) 0px -174px no-repeat;
 }
 
 #thumb-sam a:hover {
-	background: url(../images/sbw_sam.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_sam.jpg) 0px 0px no-repeat;
 }
 
 #thumb-samantha a {
@@ -1662,11 +1662,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_samantha.jpg) 0px -0px no-repeat;
+	background: url(.images/sbw_samantha.jpg) 0px -0px no-repeat;
 }
 
 #thumb-samantha a:hover {
-	background: url(../images/sbw_samantha.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_samantha.jpg) 0px -174px no-repeat;
 }
 
 #thumb-rui a {
@@ -1674,11 +1674,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_Rui.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_Rui.jpg) 0px -174px no-repeat;
 }
 
 #thumb-rui a:hover {
-	background: url(../images/sbw_Rui.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_Rui.jpg) 0px 0px no-repeat;
 }
 
 #thumb-warren a {
@@ -1686,11 +1686,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_warren.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_warren.jpg) 0px -174px no-repeat;
 }
 
 #thumb-warren a:hover {
-	background: url(../images/sbw_warren.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_warren.jpg) 0px 0px no-repeat;
 }
 
 #thumb-james a {
@@ -1698,11 +1698,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_james.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_james.jpg) 0px -174px no-repeat;
 }
 
 #thumb-james a:hover {
-	background: url(../images/sbw_james.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_james.jpg) 0px 0px no-repeat;
 }
 
 
@@ -1711,11 +1711,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_daren.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_daren.jpg) 0px -174px no-repeat;
 }
 
 #thumb-daren a:hover {
-	background: url(../images/sbw_daren.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_daren.jpg) 0px 0px no-repeat;
 }
 
 #thumb-cerys a {
@@ -1723,11 +1723,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_cerys.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_cerys.jpg) 0px -174px no-repeat;
 }
 
 #thumb-cerys a:hover {
-	background: url(../images/sbw_cerys.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_cerys.jpg) 0px 0px no-repeat;
 }
 
 
@@ -1736,11 +1736,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_angie.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_angie.jpg) 0px -174px no-repeat;
 }
 
 #thumb-angie a:hover {
-	background: url(../images/sbw_angie.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_angie.jpg) 0px 0px no-repeat;
 }
 
 #thumb-spare a {
@@ -1748,11 +1748,11 @@ form.contact-frm input#btnsubmit {
 	width: 225px;
 	height: 174px;
 	text-indent: -9999px;
-	background: url(../images/sbw_sbw.jpg) 0px -174px no-repeat;
+	background: url(.images/sbw_sbw.jpg) 0px -174px no-repeat;
 }
 
 #thumb-spare a:hover {
-	background: url(../images/sbw_sbw.jpg) 0px 0px no-repeat;
+	background: url(.images/sbw_sbw.jpg) 0px 0px no-repeat;
 }
 
 #staff-thumbs {
@@ -2050,7 +2050,7 @@ p.wp-caption-text {
 	top: 0;
 }
 .commentlist > li:before {
-	content: url(../../news/wp-content/themes/twentyeleven/images/comment-arrow.png);
+	content: url(news/wp-content/themes/twentyeleven/images/comment-arrow.png);
 	left: -21px;
 	position: absolute;
 }
